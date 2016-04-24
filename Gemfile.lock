@@ -172,7 +172,7 @@ GEM
     rdoc (4.2.2)
       json (~> 1.4)
     remotipart (1.2.1)
-    rollbar (2.9.1)
+    rollbar (2.10.0)
       multi_json
     rspec-core (3.4.4)
       rspec-support (~> 3.4.0)
