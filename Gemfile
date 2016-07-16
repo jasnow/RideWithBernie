@@ -1,14 +1,15 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.2.7'
+gem 'rails', '5.0.0'
+gem 'rails_admin', github: 'sferik/rails_admin'
+gem 'rack-pjax', github: 'afcapel/rack-pjax'
+gem 'remotipart', github: 'mshibuya/remotipart', ref: '3a6acb3'
 
 ruby '2.3.1'
 
 gem 'puma'
 
 gem 'rollbar'
-
-gem 'rails_admin'
 
 # For SMS / calls
 gem 'twilio-ruby'
