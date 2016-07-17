@@ -8,14 +8,13 @@ GIT
 
 GIT
   remote: git://github.com/mshibuya/remotipart.git
-  revision: 3a6acb36d46d6769faba6bd94ed7f831321f6c6a
-  ref: 3a6acb3
+  revision: 88d9a7d55bde66acb6cf3a3c6036a5a1fc991d5e
   specs:
     remotipart (1.2.1)
 
 GIT
   remote: git://github.com/sferik/rails_admin.git
-  revision: 60edfe4050dc83ca236c619516bceab796191cd9
+  revision: eeb11534d846a23485dcffae49bd541f421c9a34
   specs:
     rails_admin (0.8.1)
       builder (~> 3.1)
@@ -279,7 +278,7 @@ DEPENDENCIES
   web-console
 
 RUBY VERSION
-   ruby 2.3.1p112
+   ruby 2.4.0p-1
 
 BUNDLED WITH
    1.12.5
