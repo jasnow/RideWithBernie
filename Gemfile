@@ -1,8 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '5.0.0'
-gem 'rails_admin', github: 'sferik/rails_admin'
-gem 'rack-pjax', github: 'afcapel/rack-pjax'
+gem 'rails_admin', '1.0.0.rc'
 gem 'remotipart', github: 'mshibuya/remotipart'
 
 ruby '2.4.0'
