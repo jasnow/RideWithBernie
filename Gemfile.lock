@@ -48,7 +48,7 @@ GEM
       railties (>= 4.2, < 6)
       sprockets (~> 3.0)
       tilt
-    arel (7.0.0)
+    arel (7.1.0)
     bitly (0.10.4)
       httparty (>= 0.7.6)
       multi_json (~> 1.3)
