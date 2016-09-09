@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '5.0.0.1'
 gem 'rails_admin', '1.0.0.rc'
 gem 'rails_admin-i18n'
-gem 'remotipart', github: 'mshibuya/remotipart'
+gem 'remotipart', git: 'https://github.com/mshibuya/remotipart'
 
 ruby '2.4.0'
 
