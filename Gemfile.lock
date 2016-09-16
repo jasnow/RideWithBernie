@@ -180,7 +180,7 @@ GEM
     rake (11.2.2)
     rdoc (4.2.2)
       json (~> 1.4)
-    rollbar (2.12.0)
+    rollbar (2.13.0)
       multi_json
     rspec-core (3.5.3)
       rspec-support (~> 3.5.0)
