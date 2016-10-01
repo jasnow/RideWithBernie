@@ -55,7 +55,7 @@ GEM
       oauth2 (>= 0.5.0, < 2.0)
     bower-rails (0.11.0)
     builder (3.2.2)
-    byebug (9.0.5)
+    byebug (9.0.6)
     coderay (1.1.1)
     coffee-rails (4.2.1)
       coffee-script (>= 2.2.0)
@@ -180,9 +180,9 @@ GEM
     rake (11.3.0)
     rdoc (4.2.2)
       json (~> 1.4)
-    rollbar (2.13.1)
+    rollbar (2.13.2)
       multi_json
-    rspec-core (3.5.3)
+    rspec-core (3.5.4)
       rspec-support (~> 3.5.0)
     rspec-expectations (3.5.0)
       diff-lcs (>= 1.2.0, < 2.0)
@@ -271,4 +271,4 @@ RUBY VERSION
    ruby 2.4.0p-1
 
 BUNDLED WITH
-   1.13.1
+   1.13.2
