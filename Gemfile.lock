@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/mshibuya/remotipart
-  revision: 7e244e78e148430b7720e6cf8f86263d6a1dfddf
+  revision: cd653ddc43bb09767b8f2802d6e27b3e00ef992f
   specs:
-    remotipart (1.3.0)
+    remotipart (1.3.1)
 
 GEM
   remote: https://rubygems.org/
@@ -178,7 +178,7 @@ GEM
     rake (11.3.0)
     rdoc (4.2.2)
       json (~> 1.4)
-    rollbar (2.13.2)
+    rollbar (2.13.3)
       multi_json
     rspec-core (3.5.4)
       rspec-support (~> 3.5.0)
@@ -204,7 +204,7 @@ GEM
       sprockets (>= 2.8, < 4.0)
       sprockets-rails (>= 2.0, < 4.0)
       tilt (>= 1.1, < 3)
-    sdoc (0.4.1)
+    sdoc (0.4.2)
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
     slop (3.6.0)
