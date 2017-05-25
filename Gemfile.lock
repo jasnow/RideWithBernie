@@ -52,9 +52,9 @@ GEM
     builder (3.2.3)
     byebug (9.0.6)
     coderay (1.1.1)
-    coffee-rails (4.2.1)
+    coffee-rails (4.2.2)
       coffee-script (>= 2.2.0)
-      railties (>= 4.0.0, < 5.2.x)
+      railties (>= 4.0.0)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -210,7 +210,7 @@ GEM
     thor (0.19.4)
     thread_safe (0.3.6)
     tilt (2.0.7)
-    twilio-ruby (5.0.0.rc20)
+    twilio-ruby (5.0.0.rc21)
       builder (>= 2.1.2)
       faraday (~> 0.9)
       jwt (~> 1.5)
@@ -253,7 +253,7 @@ DEPENDENCIES
   rspec-rails
   sass-rails
   sdoc (= 1.0.0.rc2)
-  twilio-ruby (= 5.0.0.rc20)
+  twilio-ruby (= 5.0.0.rc21)
   uglifier
   web-console
 
