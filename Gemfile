@@ -11,7 +11,7 @@ gem 'puma'
 gem 'rollbar'
 
 # For SMS / calls
-gem 'twilio-ruby', '5.0.0.rc23'
+gem 'twilio-ruby', '5.0.0.rc24'
 
 # For link shortening
 gem 'bitly'
