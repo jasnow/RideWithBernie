@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-ruby '2.4.1'
+gem 'rails', '5.1.3.rc3'
 
-gem 'rails', '5.1.3.rc2'
+ruby '2.4.1'
 
 gem 'rails_admin'
 gem 'rails_admin-i18n'
