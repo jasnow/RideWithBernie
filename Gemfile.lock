@@ -193,7 +193,7 @@ GEM
       ffi (>= 0.5.0, < 2)
     rdoc (6.0.4)
     remotipart (1.4.2)
-    rollbar (2.15.6)
+    rollbar (2.16.0)
       multi_json
     rspec-core (3.7.1)
       rspec-support (~> 3.7.0)
@@ -287,4 +287,4 @@ RUBY VERSION
    ruby 2.6.0p-1
 
 BUNDLED WITH
-   1.16.1
+   1.16.2
