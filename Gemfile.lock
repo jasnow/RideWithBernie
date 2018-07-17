@@ -236,7 +236,7 @@ GEM
     thor (0.20.0)
     thread_safe (0.3.6)
     tilt (2.0.8)
-    twilio-ruby (5.10.7)
+    twilio-ruby (5.11.0)
       faraday (~> 0.9)
       jwt (>= 1.5, <= 2.5)
       nokogiri (>= 1.6, < 2.0)
@@ -287,4 +287,4 @@ RUBY VERSION
    ruby 2.6.0p-1
 
 BUNDLED WITH
-   1.16.2
+   1.16.3
