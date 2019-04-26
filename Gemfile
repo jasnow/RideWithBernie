@@ -4,7 +4,7 @@ gem 'rails', '6.0.0.rc1'
 
 ruby '2.6.3'
 
-gem 'rails_admin'
+gem 'rails_admin', git: 'https://github.com/sferik/rails_admin'
 gem 'rails_admin-i18n'
 gem 'remotipart'
 gem 'puma'
