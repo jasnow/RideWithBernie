@@ -33,6 +33,7 @@ gem 'sass-rails'
 gem 'uglifier'
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails'
+
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
@@ -55,7 +56,7 @@ gem 'sdoc', group: :doc
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
-  gem 'rspec-rails'
+  gem 'rspec-rails', '4.0.0.beta2' # 4/26/2019: LOCKED DOWN
 end
 
 group :development do
