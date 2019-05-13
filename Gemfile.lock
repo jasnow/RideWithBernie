@@ -1,11 +1,3 @@
-GIT
-  remote: https://github.com/rails/jbuilder
-  revision: 2afb88129c9d3fcd7977ae65cb26fca1b0f52b99
-  specs:
-    jbuilder (2.8.0)
-      activesupport (>= 4.2.0)
-      multi_json (>= 1.2)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -108,6 +100,8 @@ GEM
       multi_xml (>= 0.5.2)
     i18n (1.6.0)
       concurrent-ruby (~> 1.0)
+    jbuilder (2.9.0)
+      activesupport (>= 4.2.0)
     jquery-rails (4.3.3)
       rails-dom-testing (>= 1, < 3)
       railties (>= 4.2.0)
@@ -287,7 +281,7 @@ DEPENDENCIES
   bower-rails
   byebug
   dotenv-rails
-  jbuilder!
+  jbuilder
   jquery-rails
   pg
   pry
