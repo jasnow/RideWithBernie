@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/jbuilder
-  revision: 3895a7243f3db292b0bf15513fc05494e6e50576
+  revision: 2afb88129c9d3fcd7977ae65cb26fca1b0f52b99
   specs:
     jbuilder (2.8.0)
       activesupport (>= 4.2.0)
@@ -144,7 +144,7 @@ GEM
     minitest (5.11.3)
     multi_json (1.13.1)
     multi_xml (0.6.0)
-    multipart-post (2.1.0)
+    multipart-post (2.1.1)
     nested_form (0.3.2)
     nio4r (2.3.1)
     nokogiri (1.10.3)
