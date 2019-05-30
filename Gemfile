@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '6.0.0.rc1'
 
-ruby '2.6.3'
+ruby '2.7.0'
 
 gem 'rails_admin'
 gem 'rails_admin-i18n'
