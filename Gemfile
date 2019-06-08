@@ -4,7 +4,7 @@ gem 'rails', '6.0.0.rc1'
 
 ruby '2.7.0'
 
-gem 'rails_admin'
+gem 'rails_admin', '2.0.0.beta' # 6/8/2019: LOCKED DOWN
 gem 'rails_admin-i18n'
 gem 'remotipart'
 gem 'puma'
