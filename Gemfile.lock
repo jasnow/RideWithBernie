@@ -213,7 +213,7 @@ GEM
       ffi (~> 1.0)
     rdoc (6.1.1)
     remotipart (1.4.3)
-    rollbar (2.20.1)
+    rollbar (2.20.2)
       multi_json
     rspec-core (3.8.1)
       rspec-support (~> 3.8.0)
