@@ -64,7 +64,7 @@ GEM
       railties (>= 4.2, < 6)
       sprockets (>= 3.0, < 5)
       tilt
-    bindex (0.7.0)
+    bindex (0.8.0)
     bitly (1.1.2)
       httparty (>= 0.7.6)
       multi_json (~> 1.3)
