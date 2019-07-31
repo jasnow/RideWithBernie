@@ -17,7 +17,7 @@ gem 'twilio-ruby'
 gem 'bitly'
 
 # Store ENV variables in .env
-gem 'dotenv-rails', :groups => [:development, :test]
+gem 'dotenv-rails'
 
 # Front end asset management for realz!
 gem 'bower-rails'
