@@ -56,7 +56,7 @@ gem 'sdoc', group: :doc
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
-  gem 'rspec-rails', '4.0.0.beta4' # 4/26/2019: LOCKED DOWN
+  gem 'rspec-rails'
 end
 
 group :development do
