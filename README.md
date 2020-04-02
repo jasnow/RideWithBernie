@@ -5,8 +5,8 @@ and work our way up to helping people get to the polls on caucus day and electio
 
 ### Requirements
 
-1. Ruby 2.7.0-preview3
-2. Rails 6.0.1
+1. Ruby 2.7.1
+2. Rails 6.0.2.2
 2. [RubyGems](https://rubygems.org/pages/download)
 3. [Bundler](http://bundler.io/)
 3. Postgres ([Postgres.app](http://postgresapp.com/) recommended for OS X).
