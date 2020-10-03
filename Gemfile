@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '6.0.3.3'
 
-ruby '2.7.1'
+ruby '2.7.2'
 
 gem 'rails_admin'
 gem 'rails_admin-i18n'
@@ -26,7 +26,7 @@ gem 'bower-rails'
 gem 'angular-rails-templates'
 
 # Use postgresql as the database for Active Record
-gem 'pg'
+#HID: gem 'pg' # HID on 10/3/2020
 # Use SCSS for stylesheets
 gem 'sassc-rails'
 # Use Uglifier as compressor for JavaScript assets
