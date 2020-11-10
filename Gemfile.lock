@@ -222,7 +222,7 @@ GEM
       sprockets (> 3.0)
       sprockets-rails
       tilt
-    sdoc (2.0.0)
+    sdoc (2.0.2)
       rdoc (>= 5.0)
     sprockets (4.0.2)
       concurrent-ruby (~> 1.0)
